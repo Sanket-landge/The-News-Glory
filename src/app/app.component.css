@@ -1,3 +1,7 @@
 img{
-    margin-right: 8px;
+    margin-right: 18px;
+}
+.menu a:hover{
+    text-decoration: underline;
+    color: #ffffff;
 }
